@@ -7,7 +7,7 @@ Java application that allows to transform a text to speech using free tts
 
 If there is no error you will be able to listen the robot reading your text.
 
-## : How to contribute
+## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
 ## :sparkling_heart: Support my projects
